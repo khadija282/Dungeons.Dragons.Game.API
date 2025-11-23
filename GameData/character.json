@@ -1,0 +1,28 @@
+[
+  {
+    "Id": "char1",
+    "Name": "Aria",
+    "Class": "Wizard",
+    "Level": 1,
+    "Hp": 18,
+    "Strength": 8,
+    "Dexterity": 12,
+    "Intelligence": 16,
+    "Inventory": [
+      { "Id": "wand", "Name": "Apprentice Wand", "Type": "weapon", "Bonus": 1 }
+    ]
+  },
+  {
+    "Id": "char2",
+    "Name": "Borin",
+    "Class": "Fighter",
+    "Level": 1,
+    "Hp": 22,
+    "Strength": 16,
+    "Dexterity": 10,
+    "Intelligence": 8,
+    "Inventory": [
+      { "Id": "sword", "Name": "Short Sword", "Type": "weapon", "Bonus": 1 }
+    ]
+  }
+]

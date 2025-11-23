@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="../Dungeons.Dragon.DTO/Dungeons.Dragon.DTO.csproj" />
+  <Project Path="../Dungeons.Dragon.Repository/Dungeons.Dragon.Repository.csproj" />
+  <Project Path="../Dungeons.Dragon.Tests/Dungeons.Dragon.Tests.csproj" />
+  <Project Path="../Dungeons.Drangon.Services/Dungeons.Drangon.Services.csproj" />
+  <Project Path="Dungeons.Dragons.Game.csproj" />
+</Solution>

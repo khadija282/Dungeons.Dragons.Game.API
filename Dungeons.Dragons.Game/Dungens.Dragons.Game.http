@@ -1,0 +1,6 @@
+@Dungens.Dragons.Game_HostAddress = http://localhost:5046
+
+GET {{Dungens.Dragons.Game_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
